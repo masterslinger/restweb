@@ -1,7 +1,7 @@
 # Ex.07 Restaurant Website
-## Date:14.05.2025
-## Name:G.Mithik jain
-## Ref no:212224240087
+## Date:24.05.2025
+## Name:Syed Abu Hanifa.L
+## Ref no:21222040346
 
 ## AIM:
 To develop a static Restaurant website to display the food items and services provided by them.
